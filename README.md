@@ -5,8 +5,6 @@ A Spotify-style music player with a Y2K / Winamp-era interface. Built with React
 <!-- Replace with your own screenshot: save it as docs/screenshot.png -->
 ![Screenshot](docs/screenshot.png)
 
-**Live demo:** `https://<your-username>.github.io/chrome-pop/` (after enabling GitHub Pages, see below)
-
 ## Features
 - Real audio playback: play, pause, next, previous, shuffle, repeat (off / all / one)
 - Track title, artist, and generated holographic cover art
